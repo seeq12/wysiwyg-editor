@@ -1,3 +1,5 @@
+# Look at branch `add-error-handling` for most recent changes to Seeq's version
+
 # [Froala Editor V3](https://www.froala.com/wysiwyg-editor)
 
 [![Build Status](https://api.travis-ci.com/froala-labs/froala-editor-js-2.svg?token=RmiyW7AecDyQ8ja7VMDj&branch=master)](https://travis-ci.com/froala-labs/froala-editor-js-2)
